@@ -1,7 +1,7 @@
 {
   "name": "movie_app",
   "private": true,
-  "homepage": "https://vadimfront.github.io/movie_app/",
+  "homepage": "https://vadimfront.github.io/movie-app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
